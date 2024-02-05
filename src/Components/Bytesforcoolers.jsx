@@ -97,9 +97,8 @@ export function Bytesforcoolers() {
             </div>
             <button className='p-4 px-7 text-black text-2xl border-solid m-2 border-black border-2 rounded-md'
                 onClick={() => handleclick(array)}>
-                Gerar Cooler Palette</button>
+                Generate Cooler Palette</button>
         </div>
     )
-
 
 }
